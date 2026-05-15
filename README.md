@@ -1,6 +1,7 @@
 # py_popratio
 
 A Python implementation of atomic population ratio calculations for neutral species (e.g., C I), inspired by classical PopRatio codes.
+The code is a direct conversion of the method applied by Silvia and Viegas Fortran code: 'popratio' (Astrophysics Source Code Library, record ascl:0202.001, February 2002, 2002ascl.soft02001S)
 
 ---
 
