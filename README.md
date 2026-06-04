@@ -14,7 +14,7 @@ The code is a direct conversion of the method applied by Silvia and Viegas Fortr
   - UV radiation fields:
     - Draine (1978)
     - PopRatio / Gondhalekar
-    - Khaire & Srianand (2019) UV background
+    - Khaire & Srianand (2019) UV background (In progress)
   - Fluorescence / UV pumping
 
 ---
